@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRoZhp6mkAe4-TGIGruG-g7CJFHTf9FO3U5WSDHWbrmW7pIccJH&usqp=CAU"); 
+    font-family: Calibri;
+  }
+  
+  .menu{
+    background-color:	MidnightBlue;
+  }
+  
+  .menu li{
+    list-style:none;
+  }
+  
+  /*justify-content:space-between;*/
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  
+  .site-title, .site-subtitle{
+    color:DarkSlateBlue;
+    text-align: center;
+    
+  }
+  
+  .site-subtitle{
+    font-style:italic;  
+  }
+  
+  a{
+    color:AliceBlue;
+    text-decoration:none;
+    
+  }
+  
+  a:hover{
+    font-weight:bold;
+    text-decoration: underline;
+  }
+  
+  
